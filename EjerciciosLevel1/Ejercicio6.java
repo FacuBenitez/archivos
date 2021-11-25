@@ -1,3 +1,5 @@
+package EjerciciosLevel1;
+
 import java.util.Scanner;
 
 public class Ejercicio6 {
